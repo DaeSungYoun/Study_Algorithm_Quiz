@@ -13,7 +13,7 @@ public class quiz12940 {
         int[] answer = {min, max};
 
         return answer;
-    }
+    }//test
 
     public static int gcd(int n, int m) {
         if(m == 0) return n;
