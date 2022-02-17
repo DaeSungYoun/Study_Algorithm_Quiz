@@ -5,7 +5,7 @@ public class quiz42840 {
     public static void main(String[] args) {
     }
 
-    public static int[] solution(int[] answers) {
+    public static int[] soㅠlution(int[] answers) {
         int[] answer = {};
         int[] person1 = {1,2,3,4,5}; //이만큼씩 반복
         int[] person2 = {2,1,2,3,2,4,2,5};
